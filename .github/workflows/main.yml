@@ -20,5 +20,5 @@ jobs:
           function_name: helloWord
           zip_file: deployment.zip
           handler: foobar
-          role: arn:aws:iam::xxxxxxxxxxx:role/test1234
+          role: arn:aws:iam::533267102034:user/s3-user
           runtime: nodejs12.x
